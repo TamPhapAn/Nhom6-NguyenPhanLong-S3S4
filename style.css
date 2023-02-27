@@ -1,0 +1,101 @@
+#Icon {
+    box-sizing: border-box;
+    float: left;
+}
+
+#head {
+    box-sizing: border-box;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading1 {
+    color: sandybrown;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+}
+
+.heading2 {
+    
+    color: aquamarine;
+    font-size: 30px;
+    text-shadow: 1px 1px aquamarine;
+}
+
+
+.headingcontent1 {
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.headingcontent2 {
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.content1 {
+    font-size: 25px;
+}
+
+.content2 {
+    font-size: 25px;
+}
+
+.content3 {
+    font-size: 28px;
+}
+
+.name1  {
+    color: green;
+}
+
+a.name1:hover, a.name1:active {
+    color: sandybrown;
+}
+
+.name2  {
+    color: green;
+}
+
+a.name2:hover, a.name2:active {
+    color: sandybrown;
+}
+
+.name3  {
+    color: green;
+}
+
+a.name3:hover, a.name3:active {
+    color: sandybrown;
+}
+
+.name4  {
+    color: green;
+}
+
+a.name4:hover, a.name4:active {
+    color: sandybrown;
+}
+
+.name5  {
+    color: green;
+}
+
+a.name5:hover, a.name5:active {
+    color: sandybrown;
+}
+
+.name6  {
+    color: green;
+}
+
+a.name6:hover, a.name6:active {
+    color: sandybrown;
+}
+
+.footer {
+    font-size: 25px;
+    text-align: right;
+}
